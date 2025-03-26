@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on a research about Physics-Informed Neural Network with Hard Constraints. 
 - 🌱 Experience of graduate courses: IOE511 Continuous Optimization Methods (WN25)
-- 🌱 Graduate courses planned to take: IOE611 Nonlinear Programming (FA25), MATH551 Intro to Real Analysis (FA25), IOE618 Stochastic Optimization (FA25)
+- 🌱 Graduate courses to take: IOE611 Nonlinear Programming (FA25), MATH551 Intro to Real Analysis (FA25), IOE618 Stochastic Optimization (FA25)
 - 💬 Ask me about anything you feel interested in.
 - 📫 How to reach me: wylong@umich.edu
 - 😄 Pronouns: he/him/his
